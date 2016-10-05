@@ -1,6 +1,6 @@
 # AWS-DevOps-Study
 ##Domain 1: Continuous Delivery and Process Automation
-* Implementing Continous integration and continous delivery
+* Implementing Continuous integration and continuous delivery
 * Understanding Application life cycle management
 * Automating Infrastructure with CloudFormation
 * Deploying applications using Elastic Beanstalk
